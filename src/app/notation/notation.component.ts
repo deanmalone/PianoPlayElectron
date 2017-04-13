@@ -8,7 +8,7 @@ import { PianoNote }  from '../core/piano-note';
 import { PianoMode }  from '../core/piano-mode.enum';
 import { QuizResult }  from '../core/quiz-result';
 
-declare var $: any;
+import * as $ from 'jquery';
 
 @Component({
   selector: 'notation',

@@ -1,0 +1,6 @@
+{
+  "name"    : "piano-play",
+  "productName" : "Piano Play",
+  "version" : "0.1.0",
+  "main"    : "electron.js"
+}
